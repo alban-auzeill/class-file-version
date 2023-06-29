@@ -3,7 +3,7 @@ plugins {
 }
 
 group = "com.auzeill"
-version = "1.0-SNAPSHOT"
+version = "1.1-SNAPSHOT"
 
 java {
     sourceCompatibility = JavaVersion.VERSION_11
